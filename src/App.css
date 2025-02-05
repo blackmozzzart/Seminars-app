@@ -66,6 +66,10 @@
   transition: background-color 0.3s;
 }
 
+.button+.button {
+  margin-left: 8px;
+}
+
 .button-edit {
   background-color: #4299e1;
 }
